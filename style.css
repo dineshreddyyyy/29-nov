@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(#ebe834 20%,#43eb34 100%);
+}
+.holder{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.image{
+    width:50%
+    border: solid 3px blue;
+    margin:10px;
+    border-radius: 10px;
+    
+}
+img{
+    max-width:100%;
+}
+h1{
+    color:black;
+    font-size: 50px;
+    font-style: normal;
+    
+}
